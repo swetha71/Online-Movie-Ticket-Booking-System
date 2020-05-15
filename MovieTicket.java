@@ -1,6 +1,5 @@
 
 import java.awt.*;
-
 import java.awt.event.*;
 import java.sql.*;
 
@@ -98,7 +97,6 @@ public class MovieTicket extends Frame
 		setVisible(true);
 		
 	}
-	
 	
 	private void displaySQLErrors(SQLException e) 
 	{
